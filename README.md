@@ -7,3 +7,6 @@ TODO: Add getting started information here. Starting services, prerequisites, et
 
 ## Project Structure
 TODO: Once there is a structure, explain it here.
+
+## Project Architecture
+![ProjectArchitecture](overview.drawio.svg)
